@@ -47,9 +47,9 @@ It uses a singly linked list to maintain the queue.
 
 # Files
 
-* Problem2.h- Header file included (currently empty but reserved for future use).
+* Problem2.h — Header file included (currently empty but reserved for future use).
 
-* main.cpp- Contains the Patient structure, PriorityQueue class, and the main() function with the program logic.
+* main.cpp — Contains the Patient structure, PriorityQueue class, and the main() function with the program logic.
 
 # How to Run
 
