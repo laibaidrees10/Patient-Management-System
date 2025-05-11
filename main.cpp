@@ -1,4 +1,4 @@
-#include "Problem2.h"
+#include "Patient.h"
 
 int main()
 {
